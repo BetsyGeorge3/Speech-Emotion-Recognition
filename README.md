@@ -1,1 +1,2 @@
 # Speech-Emotion-Recognition
+ Speech Emotion Recognition project aims to develop a functional system that can automatically recognize and classify emotions from speech signals. By merging spectrograms, extracting MFCC features, training a CNN model, and conducting analysis using confusion matrices and statistical procedures, the project strives to advance our understanding of speech-based emotion recognition and contribute to the development of emotion-aware technologies.
